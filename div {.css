@@ -1,0 +1,30 @@
+div {
+  width: 500px;
+  height: 500px;
+
+  background: #333333;
+}
+
+#main {
+  color: rgb(231, 6, 145);
+  width: 750px;
+}
+
+p {
+  color: rgb(20, 184, 14);
+}
+
+.alert {
+  height: 350px;
+  color: rgb(107, 22, 1);
+}
+
+div {
+color: blue;
+background:#b40505
+}
+
+.news {
+  background: #000000;
+  color: yellow;
+}
